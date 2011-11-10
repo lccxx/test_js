@@ -7,7 +7,7 @@
 (function() {
   var s = document.createElement('script');
   s.type = "text/javascript";
-  s.src = "http://code.jquery.com/jquery-1.7.min.js";
+  s.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js";
   var d = document.getElementsByTagName('script')[0];
   d.parentNode.insertBefore(s, d);
 

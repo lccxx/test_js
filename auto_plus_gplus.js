@@ -1,6 +1,6 @@
 /**
  * useage
- *  on location type: 
+ *  on location bar type: 
  *    javascript:var s = document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='http://goo.gl/jz0N7';void(0);
  *
  */

@@ -1,6 +1,6 @@
 /**
  * useage
- *  on loction type: 
+ *  on location type: 
  *    javascript:var s = document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://raw.github.com/liu-chong/test_js/master/auto_plus_gplus.js';void(0);
  *
  */

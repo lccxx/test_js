@@ -1,3 +1,9 @@
+/**
+ * useage
+ *  on loction type: 
+ *    javascript:var s = document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://raw.github.com/liu-chong/test_js/master/auto_plus_gplus.js';void(0);
+ *
+ */
 (function() {
   var jquery_js_src = "http://code.jquery.com/jquery-1.7.min.js";
   var jquery_doc_script = document.createElement('script');

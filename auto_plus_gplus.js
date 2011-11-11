@@ -1,9 +1,3 @@
-/**
- * useage
- *  on location bar type: 
- *    javascript:var s = document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://github.com/liu-chong/test_js/blob/master/auto_plus_gplus.js';void(0);
- *
- */
 (function() {
   var s = document.createElement('script');
   s.type = "text/javascript";

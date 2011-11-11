@@ -11,11 +11,8 @@
   var d = document.getElementsByTagName('script')[0];
   d.parentNode.insertBefore(s, d);
 
-  window.setTimeout(function() {
-    var puls_all_post_comment = function () {
-      $("button[title='Click to +1 this post']").click();
-      $("button[title='Click to +1 this comment']").click();
-    };
-    window.setInterval(puls_all_post_comment, 2000);
+  window.setInterval(function() {
+    $("button[title='Click to +1 this post']").click();
+    $("button[title='Click to +1 this comment']").click();
   }, 2000);
 })();

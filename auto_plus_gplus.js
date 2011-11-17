@@ -10,4 +10,4 @@
 window.setInterval(function () {
   $("button[title='Click to +1 this post']").click();
   $("button[title='Click to +1 this comment']").click();
-}, 2000);
+}, 500);
